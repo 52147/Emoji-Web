@@ -1,6 +1,6 @@
 # Emoji-Web
 
-## Deploy react App to github page
+## Deploy React App to Github page
 - Intstall Node and npm
 - Install yarn package
 
