@@ -16,8 +16,21 @@ or
 npm install gh-pages --save--dev
 ```
 
-- modify package.json
+## modify package.json
 
+- Add web url
 ```
 "homepage":"https://52147.github.io/Emoji-Web/"
+```
+- add 2 scripts in scripts doc
+
+```
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+```
+push the changes to Github
+```
+git add *
+git commit -m "update"
+git push
 ```
