@@ -40,5 +40,5 @@ git push
 npm run deploy
 ```
 ## Go to Settings Pages to change the branch
-Change branch to Github page to build the site
+Change branch to gh-pages to build the site
 
