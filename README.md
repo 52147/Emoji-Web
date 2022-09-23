@@ -34,3 +34,11 @@ git add *
 git commit -m "update"
 git push
 ```
+
+## Deploy the site to the Github page branch
+```
+npm run deploy
+```
+## Go to Settings Pages to change the branch
+Change branch to Github page to build the site
+
