@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Emoji-Web/static/js/main.ba1ed8b1.chunk.js",
+    "main.js.map": "/Emoji-Web/static/js/main.ba1ed8b1.chunk.js.map",
+    "runtime-main.js": "/Emoji-Web/static/js/runtime-main.7fd115e6.js",
+    "runtime-main.js.map": "/Emoji-Web/static/js/runtime-main.7fd115e6.js.map",
+    "static/js/2.056525c0.chunk.js": "/Emoji-Web/static/js/2.056525c0.chunk.js",
+    "static/js/2.056525c0.chunk.js.map": "/Emoji-Web/static/js/2.056525c0.chunk.js.map",
+    "index.html": "/Emoji-Web/index.html",
+    "precache-manifest.c9bfa620b4bbd8686bd651bf490180a2.js": "/Emoji-Web/precache-manifest.c9bfa620b4bbd8686bd651bf490180a2.js",
+    "service-worker.js": "/Emoji-Web/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fd115e6.js",
+    "static/js/2.056525c0.chunk.js",
+    "static/js/main.ba1ed8b1.chunk.js"
+  ]
+}
