@@ -28,7 +28,7 @@ npm install gh-pages --save--dev
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build",
 ```
-push the changes to Github
+## push the changes to Github
 ```
 git add *
 git commit -m "update"
